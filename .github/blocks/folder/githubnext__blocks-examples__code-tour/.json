@@ -1,12 +1,12 @@
 {
   "tours": [
     {
-      "name": "Test Tour",
+      "name": "MyTour",
       "steps": [
         {
           "name": "New step",
           "description": "",
-          "path": "README.md",
+          "path": ".github/blocks/folder/githubnext__blocks-examples__code-tour/.json",
           "query": ""
         }
       ]
