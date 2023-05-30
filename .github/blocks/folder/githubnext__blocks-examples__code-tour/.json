@@ -1,0 +1,15 @@
+{
+  "tours": [
+    {
+      "name": "Test Tour",
+      "steps": [
+        {
+          "name": "New step",
+          "description": "",
+          "path": "README.md",
+          "query": ""
+        }
+      ]
+    }
+  ]
+}
